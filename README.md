@@ -1,4 +1,7 @@
 # Esercizi C
-## Programmazione I
+#### Programmazione I
 
-Contenuto
+Contenuto:
+
+- 2024-10-15
+    - ciao
