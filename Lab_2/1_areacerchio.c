@@ -1,5 +1,8 @@
 #include <stdio.h>
 
+/*Scrivere un programma in C che chiede all'utente il raggio di un cerchio. L'algoritmo calcola e
+visualizza l'area di tale cerchio.*/
+
 void main () {
 
     float r;

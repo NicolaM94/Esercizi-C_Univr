@@ -1,5 +1,8 @@
 #include <stdio.h>
 
+/*Scrivere un programma in C che chiede all’utente un carattere dell’alfabeto minuscolo. Il programma
+calcola e visualizza il corrispondente carattere maiuscolo.*/
+
 void main () {
 
     char input;

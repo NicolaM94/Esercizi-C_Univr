@@ -1,5 +1,10 @@
 #include <stdio.h>
 
+/*Scrivere un programma in C che chiede all’utente la durata di due esperimenti in termini di minuti e
+secondi. Il programma deve calcolare la somma delle durate sistemando opportunamente il risultato
+in modo tale da visualizzare il numeri di minuti complessivi e secondi. Per esempio, se l’utente
+inserisce i valori 3 e 40, e 2 e 50, il programma visualizzerà una durata pari a 6 minuti e 30 secondi.*/
+
 void main () {
     // Valori dell'utente
     int minsone, secsone;

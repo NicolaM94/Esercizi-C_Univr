@@ -2,6 +2,7 @@
 
 /*crivere un programma in C che chiede all’utente due numeri interi. Il programma calcola e visualizza
 la media dei valori acquisti. Si noti che la media è un valore reale.*/
+
 void main () {
     int n,m;
     float avg;

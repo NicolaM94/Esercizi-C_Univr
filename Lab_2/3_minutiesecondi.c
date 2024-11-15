@@ -6,6 +6,7 @@ erroneamente questi dati, in particolare specificando un valore di secondi maggi
 programma deve “risistemare” i due valori, calcolando il numero di minuti e secondi effettivi della
 durata dell’esperimento, e visualizzare il risultato. Per esempio se l’utente inserisce i valori 2 e 80, il
 programma calcolerà che l’esperimento è durato 3 minuti e 20 secondi.*/
+
 void main () {
     // Valori inseriti dall'utente
     int userminutes;

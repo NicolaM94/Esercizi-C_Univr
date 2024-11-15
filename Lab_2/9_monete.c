@@ -1,5 +1,9 @@
 #include <stdio.h>
 
+/*Scrivere un programma in C che conta quanti soldi ha nel portafogli l'utente. In particolare,
+l'algoritmo chiede all'utente il numero di banconote da 50, da 20, da 10 e da 5 euro, calcola la
+somma complessiva e la visualizza.*/
+
 void main () {
 
     int cinquanta;
