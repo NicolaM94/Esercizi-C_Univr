@@ -3,5 +3,54 @@
 
 Contenuto:
 
-- 2024-10-15
-    - ciao
+- Esercizi da esami
+    - affiatati.c
+    - arraycontains.c
+    - arrayorder.c
+    - coppiaquadrati.c
+    - invertinumero.c
+    - mastermind.c
+    - mcmmcd.c
+    - sommaprodotto.c
+    - triangolare.c
+- Lab 2
+    - areacerchio.c
+    - farenheit.c
+    - minutiesecondi.c
+    - dueesperimenti.c
+    - media.c
+    - parteinteraedecimale.c
+    - maiuscolo.c
+    - echo.c
+    - monete.c
+    - bottlemachine.c
+    - bmi.c
+    - pari.c
+    - gradirad.c
+- Lab 3
+    - abs.c
+    - leapyear.c
+    - exam.c
+    - maxtwo.c
+    - posnegnull.c
+    - polynomial.c
+    - multiples.c
+    - nextchar.c
+    - triangle.c
+- Lab 4
+    - divisori_for.c
+    - divisori_while.c
+    - fattoriale_for.c
+    - fattoriale_while.c
+    - media.c
+    - quadrato.c
+    - rettangolocomplesso.c
+    - rettangolosemplice.c
+    - stampapiu.c
+- Lab 5
+    - chess.c
+    - classifier.c
+    - operator.c
+    - timeshift.c
+    - triangle.c
+    - year.c
