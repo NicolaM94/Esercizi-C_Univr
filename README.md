@@ -1,9 +1,9 @@
-# Esercizi C
+# Esercizi 🇨
 #### Programmazione I
 
 Contenuto:
 
-- Esercizi da esami
+- **Esercizi da esami**
     - affiatati.c
     - arraycontains.c
     - arrayorder.c
