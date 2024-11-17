@@ -4,21 +4,21 @@
 per n=5 avremo n!= 5*4*3*2*1 = 120*/
 
 void main () {
-    int temp = 1;
+
     int input;
+    int result = 1;
 
     printf("Inserisci un numero per calcolare il fattoriale: ");
     scanf("%d", &input);
 
     if (input < 0) {
-        printf("Impossibile calcolare il fattoriale di un numero negativo\n");
+        printf("Impossibile calcolare il fattoriale di un negativo\n");
     } else if (input == 0 || input == 1) {
-        printf("1");
+        printf("1\n");
     } else {
         for (int i = 2; i <= input; i++) {
-            temp *= i;
+            result *= i;
         }
-        printf("Il fattoriale è: %d\n", temp);
+        printf("Il fattoriale calcolato è: %d\n", result);
     }
-
 }
