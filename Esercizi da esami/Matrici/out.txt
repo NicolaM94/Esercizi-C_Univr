@@ -1,0 +1,37 @@
+Controllo a
+Temp occs: 6 
+Controllo a
+Temp occs: 6 
+Controllo b
+Temp occs: 1 
+Controllo c
+Temp occs: 1 
+Controllo a
+Temp occs: 6 
+Controllo d
+Temp occs: 1 
+Controllo e
+Temp occs: 1 
+Controllo f
+Temp occs: 1 
+Controllo a
+Temp occs: 6 
+Controllo a
+Temp occs: 6 
+Controllo g
+Temp occs: 1 
+Controllo h
+Temp occs: 1 
+Controllo a
+Temp occs: 6 
+Controllo o
+Temp occs: 1 
+Controllo p
+Temp occs: 1 
+Controllo q
+Temp occs: 1 
+Il carattere più frequente è a (6 volte)
+* * b c 
+* d e f 
+* * g h 
+* o p q 
